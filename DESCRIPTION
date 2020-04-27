@@ -5,7 +5,7 @@ Author: Michelle Slement <mslement@usf.edu>
 Maintainer: Michelle Slement <mslement@usf.edu>
 Description: Converts Celsuis and Fahrenheit Temperatures
 Depends: R (>= 3.0.1)
-License: OCC
+License: CCO
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
