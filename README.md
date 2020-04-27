@@ -17,7 +17,7 @@ A simple numeric conversion from Celsius to Fahrenheit and Fahrenheit to Celsius
 
 Example
 -------
-This is an example of converting celsius to fahrenheit using the function celsToFah() on the datasets::beaver1 in R.
+This is an example of converting Celsius temperatures to Fahrenheit temperatures using the function celsToFah() on the datasets::beaver1 in R.
 
 `````r
 > beaverTemp <- beaver1
