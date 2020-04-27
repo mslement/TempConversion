@@ -5,12 +5,13 @@ Temperature Conversion Package (Celsius, Fahrenheit)
 `````r
 devtools::install_github("mslement/TempConversion")
 library(TempConversion) 
-
+`````
 # Note
 The following warning messages should be ignored:
+`````r
 1: package ‘usethis’ was built under R version 3.6.2 
 2: package ‘devtools’ was built under R version 3.6.2 
-
+`````
 # Project Description
 A simple numeric conversion from Celsius to Fahrenheit and Fahrenheit to Celsius. This can be used with a simple integer, vectors and columns/rows of datasets.  
 
@@ -32,8 +33,7 @@ This is an example of converting celsius to fahrenheit using the function celsTo
 > beaverTemp <- TempConversion::celsToFah(beaverTemp$temp)
 > head(beaverTemp)
 [1] 97.394 97.412 97.430 97.556 97.790 98.042 
-
-
+`````
 # Author
 Michelle Slement
 
