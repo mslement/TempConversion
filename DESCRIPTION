@@ -1,0 +1,12 @@
+Package: TempConversion
+Title: Temperature Conversion
+Version: 0.1.0
+Author: Michelle Slement <mslement@usf.edu>
+Maintainer: Michelle Slement <mslement@usf.edu>
+Description: Converts Celsuis and Fahrenheit Temperatures
+Depends: R (>= 3.0.1)
+License: OCC
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
